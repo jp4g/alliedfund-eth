@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Solar Panels",
+        "description": "High-power solar panels with 98% efficiency",
+        "funds": 1000000,
+        "expiry": 1209600,
+        "perks": [
+            {
+                "cost": 500000,
+                "reward": "5% off of first order"
+            },
+            {
+                "cost": 1000000,
+                "reward": "10% off of first order"
+            },
+            {
+                "cost": 2000000,
+                "reward": "12.5% off of first order + first vending choice of second production batch"
+            }
+        ]
+    }
+]
